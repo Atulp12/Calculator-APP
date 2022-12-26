@@ -4,9 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+It is a simple calculator which perform addition, substraction, multiplication and division operations made up using Flutter and Dart.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots
+![WhatsApp Image 2022-12-26 at 20 48 12](https://user-images.githubusercontent.com/107379234/209563206-49fa5cec-65e8-4c01-be2d-bb8beb98a91e.jpeg)
+![WhatsApp Image 2022-12-26 at 20 48 13](https://user-images.githubusercontent.com/107379234/209563216-46f04bac-6abc-4e83-ab74-530958927c93.jpeg)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
